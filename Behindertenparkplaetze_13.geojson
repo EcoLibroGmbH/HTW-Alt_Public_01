@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Behindertenparkplaetze_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Stellen": 2, "Behindertenparplatz": " " }, "geometry": { "type": "Point", "coordinates": [ 6.974036379370577, 49.235662145201736 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Stellen": 2, "Behindertenparplatz": " " }, "geometry": { "type": "Point", "coordinates": [ 6.975654778650171, 49.235505417571531 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Stellen": 1, "Behindertenparplatz": " " }, "geometry": { "type": "Point", "coordinates": [ 6.974738956269801, 49.235756316070827 ] } }
+]
+}
